@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/BulletedListExample/Form1.cs) (VB: [Form1.vb](./VB/BulletedListExample/Form1.vb))
+* [Program.cs](./CS/BulletedListExample/Program.cs) (VB: [Program.vb](./VB/BulletedListExample/Program.vb))
+<!-- default file list end -->
 # How to create bulleted list in code
 
 
